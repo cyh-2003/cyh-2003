@@ -1,4 +1,6 @@
-干装修的,有需要可以联系13598895180<br>[公司网站](http://www.shubaobaomumen.com/)
+干装修的,有需要可以联系`13598895180`<br>[公司网站](http://www.shubaobaomumen.com/)
+
+Our company specializes in interior finishing.If you are a long-term resident of Mainland China and want to start an interior finishing project with our help, please call `13598895180`.
 <hr>
 <!-- <div style="
       position: relative;width: 300px;height: 150px;transition: all .4s;transform-style: preserve-3d;" onmouseover="this.style.transform='rotateX(90deg)'" onmouseout="this.style.transform = 'rotate(0deg)';">
