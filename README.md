@@ -10,7 +10,7 @@ Our company specializes in interior finishing.If you are a long-term resident of
     &nbsp;装修过程没味道，<br>&nbsp;让您生活有味道。
   </div>
 </div> -->
-<img src="shubaobao.jpg">
+<img src="shubaobao.jpg" alt="郑州市树宝宝木业有限公司">
 <!--
 **cyh-2003/cyh-2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
